@@ -71,7 +71,7 @@
                         <h5 class="card-title">Dilan 1990</h5>
                         <p class="card-text">Milea meets with Dilan at a high school in Bandung. That was 1990,
                             when Milea moved from Jakarta to Bandung...</p>
-                        <a href="#" class="btn btn-primary">Show The Video</a>
+                        <a href="vid1.php" class="btn btn-primary">Show The Video</a>
                     </div>
                 </div>
             </div>
@@ -82,7 +82,7 @@
                         <h5 class="card-title">Dilan 1991</h5>
                         <p class="card-text">Dilan dan Milea telah resmi berpacaran.
                             Ditengah kebahagiaan mereka berdua, Dilan terancam dipecat...</p>
-                        <a href="#" class="btn btn-primary">Show The Video</a>
+                        <a href="vid2.php" class="btn btn-primary">Show The Video</a>
                     </div>
                 </div>
             </div>
@@ -91,8 +91,8 @@
                     <img src="https://i.ytimg.com/an_webp/C2yFJaXmdQs/mqdefault_6s.webp?du=3000&sqp=CIiGnvkF&rs=AOn4CLATKzSFijZ_PXokNs-HJgBXLiAUiA" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Milea : Suara Dari Dilan</h5>
-                        <p class="card-text">Tidak ada kisah yang lebih Indah dari kisah cinta di SMA.Sama halnya dengan kisah cinta Dilan dan Milea...</p>
-                        <a href="#" class="btn btn-primary">Show The Video</a>
+                        <p class="card-text">Tidak ada kisah yang lebih Indah dari kisah cinta di SMA. Sama halnya dengan kisah cinta Dilan dan Milea...</p>
+                        <a href="vid3.php" class="btn btn-primary">Show The Video</a>
                     </div>
                 </div>
             </div>
